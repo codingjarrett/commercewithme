@@ -1,12 +1,13 @@
 # commercewithme
-This is the repository for the eleventh bootcamp challenge (e-commerce backend).
+This is the repository for the thirteenth bootcamp challenge (e-commerce backend).
+
 ## CommerceWithMe
 
 ## Description
 This project is the module 13 challenge, an Object-Relational Mapping (ORM) Challenge for an e-commerce back-end. The challenge is to build the back-end for an e-commerce site by taking a working Express.js API and configuring it to use Sequelize to interact with a MySQL database.
 
 ## Walkthrough Video
-Watch the walkthrough video
+Watch the walkthrough video: https://drive.google.com/file/d/1OB9jrE6fo2BDjZo6o5AopZAZ-j8hxBt4/view?usp=sharing 
 
 ## Table of Contents
 * Installation
@@ -44,7 +45,7 @@ The API has the following routes:
 -- Tag Routes
 
 ## Contributing
-If you would like to contribute to this project, please fork the repository and create a pull request. This project was made by Jarrett Jennings.
+If you would like to contribute to this project, please fork the repository and create a pull request. This project was made by Jarrett Jennings and has a One Piece theme.
 
 ## License
 This project is licensed under the MIT License.
